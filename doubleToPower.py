@@ -1,0 +1,1 @@
+def doubletopower(num, power):
